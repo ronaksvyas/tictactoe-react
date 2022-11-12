@@ -1,3 +1,7 @@
+This is an exmaple of the popular game tictactoe in React.
+
+![image](https://user-images.githubusercontent.com/4312585/201497827-53071ff6-c64e-4a06-b9f4-44e3a950b8fa.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
