@@ -7,12 +7,6 @@ function App() {
   let [isGameOver, setIsGameOver] = useState(false);
   let [winner, setWinner] = useState(undefined);
   let [currentPlayer, setCurrentPlayer] = useState('X');
-  if (winner && isGameOver) {
-    // setGrid(EMPTY_GRID);
-    // setIsGameOver(true);
-    // setWinner(undefined);
-    // window.location.reload();
-  }
 
   const onBoxClick = (x, y) => () => {
     if (grid[x][y]) {
